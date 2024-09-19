@@ -2,7 +2,10 @@
 Enumeration Techniques
 
 # Explore Google hacking and enumeration 
-
+```
+Developed by:Kavi Keerthana R
+Register no:212222100022
+```
 # AIM:
 
 To use Google for gathering information and perform enumeration of targets
@@ -59,7 +62,7 @@ Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
 Perform common SRV Record Enumeration
 Top level domain expansion
-## OUTPUT:
+
 
 
 
@@ -96,7 +99,7 @@ Telnet allows to connect to remote host based on the port no. For smtp port no i
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
+ 
   
   
 
@@ -106,6 +109,31 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+## site:
+
+![Screenshot 2024-09-19 140000](https://github.com/user-attachments/assets/8d4c007c-a98f-4669-9c09-de8d06965077)
+
+## filetype:
+![Screenshot 2024-09-19 140051](https://github.com/user-attachments/assets/a3d8285c-cb6d-4064-8b77-317585a44eca)
+
+
+
+## intext:
+![Screenshot 2024-09-19 140229](https://github.com/user-attachments/assets/6aceb2cd-3ec4-4c64-9cba-6521fbeddaed)
+
+
+
+## inurl:
+
+![Screenshot 2024-09-19 140253](https://github.com/user-attachments/assets/a03cdb05-4d37-4698-a5d3-6f19ba30bd6e)
+
+##intitle:
+
+
+##link:
+
+
+##cache:
 
 
 ## RESULT:
